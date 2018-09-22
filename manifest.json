@@ -18,4 +18,8 @@
     }
   },
   "permissions": ["activeTab", "declarativeContent"],
+  "background": {
+    "scripts": ["script.js"],
+    "persistent": false
+  }
 }
