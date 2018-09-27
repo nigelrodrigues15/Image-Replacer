@@ -17,17 +17,31 @@ const allImages = document.getElementsByTagName('img');
 
 for (var i = 0; i < allImages.length; i++) {
   allImages[i].addEventListener('click', function() {
-    // //hiding the image
-    // this.setAttribute('style', 'opacity: 0')
-    // this.setAttribute('style', 'visibility: hidden')
-    // //deleteing the image
-    // this.remove()
+    console.log(this);
 
-    this.setAttribute('style', 'opacity: 0.1')
-    this.setAttribute('style', 'filter: blur(5px)')
+    var thisImageHeight = this.clientHeight;
+    var thisImageWidth = this.clientWidth;
+
+    this.setAttribute('src',
+    'http://placedog.net/' + thisImageWidth + '/' + thisImageHeight );
 
   })
+
 }
+
+// for (var i = 0; i < allImages.length; i++) {
+//   allImages[i].addEventListener('click', function() {
+//     // //hiding the image
+//     // this.setAttribute('style', 'opacity: 0')
+//     // this.setAttribute('style', 'visibility: hidden')
+//     // //deleteing the image
+//     // this.remove()
+
+//     this.setAttribute('style', 'opacity: 0.1')
+//     this.setAttribute('style', 'filter: blur(5px)')
+
+//   })
+// }
 
 // document.body.style = "transition: 5s; transform: rotate(5deg) scale(0.8); background-color: grey; color: white;";
 //
