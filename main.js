@@ -13,21 +13,29 @@ const allImages = document.getElementsByTagName('img');
 // console.log(allImages);
 
 
-
-
 for (var i = 0; i < allImages.length; i++) {
-  allImages[i].addEventListener('click', function() {
-    console.log(this);
 
-    var thisImageHeight = this.clientHeight;
-    var thisImageWidth = this.clientWidth;
+  // var imageHeight = allImages[i].clientHeight;
+  // var imageWidth = allImages[i].clientWidth;
 
-    this.setAttribute('src',
-    'http://placedog.net/' + thisImageWidth + '/' + thisImageHeight );
-
-  })
+  allImages[i].setAttribute('src',
+  'http://placedog.net/' + imageWidth + '/' + imageHeight );
 
 }
+
+// for (var i = 0; i < allImages.length; i++) {
+//   allImages[i].addEventListener('click', function() {
+//     console.log(this);
+//
+//     var thisImageHeight = this.clientHeight;
+//     var thisImageWidth = this.clientWidth;
+//
+//     this.setAttribute('src',
+//     'http://placedog.net/' + thisImageWidth + '/' + thisImageHeight );
+//
+//   })
+//
+// }
 
 // for (var i = 0; i < allImages.length; i++) {
 //   allImages[i].addEventListener('click', function() {
