@@ -4,3 +4,5 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 
 ## Usage
 
+* Need to be in developer mode in Chrome in order to add the extension
+
