@@ -9,3 +9,5 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 * Click on the extension icon when on desired webpage and all images will be replaced with dogs
 
 ## Future Considerations
+
+* Replace image on page prior to page load to save on loading time in areas with slow internet speeds or low badwidths
