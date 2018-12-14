@@ -15,5 +15,5 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 * Automatically replaces image instad of the click event listener
 
 ## Screenshots
-Screenshot 1 : An example of a photography website 
+### An example of a photography website 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/site.PNG)
