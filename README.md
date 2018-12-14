@@ -22,7 +22,7 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 
 This is a regular photography website with an abundance of images that the chrome extension can replace
 
-### An example site with images 
+### The site after the extension was executed 
 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/site.PNG)
 
