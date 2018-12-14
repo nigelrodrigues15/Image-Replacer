@@ -14,4 +14,4 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 * User input image replacement
 * Automatically replaces image instad of the click event listener
 
-## Sc
+## Screenshots
