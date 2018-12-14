@@ -16,3 +16,4 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 
 ## Screenshots
 Screenshot 1 : An example of a photography website 
+![Screeenshot](https://github.com/nigelrodrigues15/NASA-Space-Apps/blob/master/images/SS2.PNG)
