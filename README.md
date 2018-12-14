@@ -12,7 +12,7 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 
 * Replace image on page prior to page load to save on loading time in areas with slow internet speeds or low badwidths
 * User input image replacement
-* Automatically replaces image instad of the click event listener
+* Automatically replaces image instead of the click event listener
 
 ## Screenshots
 
@@ -25,6 +25,4 @@ This is a regular photography website with an abundance of images that the chrom
 ### The site after the extension was executed 
 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/sitereplaced2.PNG)
-
-This is a regular photography website with an abundance of images that the chrome extension can replace
 
