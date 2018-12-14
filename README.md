@@ -8,13 +8,13 @@ This is a chrome extention that replaces all images on a webpage with dogs (can 
 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/site.PNG)
 
-This is a regular photography website with an abundance of images that the chrome extension can replace
+This is a regular photography website with an abundance of images that the chrome extension can replace.
 
 #### The site after the extension was executed 
 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/sitereplaced2.PNG)
 
-The images on the webiste was replaces with dogs and puppies
+The images on the webiste was replaces with dogs and puppies. There are some images that are repeated
 
 ## Usage
 
