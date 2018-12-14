@@ -24,7 +24,7 @@ This is a regular photography website with an abundance of images that the chrom
 
 ### The site after the extension was executed 
 
-![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/site.PNG)
+![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/sitereplaced2.PNG)
 
 This is a regular photography website with an abundance of images that the chrome extension can replace
 
