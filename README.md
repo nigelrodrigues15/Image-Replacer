@@ -26,3 +26,4 @@ This is a regular photography website with an abundance of images that the chrom
 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/sitereplaced2.PNG)
 
+The images on the webiste was replaces with dogs and puppies
