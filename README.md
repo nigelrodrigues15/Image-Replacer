@@ -2,15 +2,15 @@
 
 This is a chrome extention that replaces all images on a webpage with dogs (can be replaced with any picture). It is served to be an introduction to creating web extensions. Image files and code tutorial was provided by Canada Learning Code.
 
-## Screenshots
+### Screenshots
 
-### An example site with images 
+#### An example site with images 
 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/site.PNG)
 
 This is a regular photography website with an abundance of images that the chrome extension can replace
 
-### The site after the extension was executed 
+#### The site after the extension was executed 
 
 ![Screeenshot](https://github.com/nigelrodrigues15/Image-Replacer/blob/master/images/sitereplaced2.PNG)
 
