@@ -27,5 +27,5 @@ The images on the webiste was replaces with dogs and puppies. There are some ima
 * Replace image on page prior to page load to save on loading time in areas with slow internet speeds or low badwidths
 * User input image replacement
 * Automatically replaces image instead of the click event listener
-* Filter out repeat images
+
 
